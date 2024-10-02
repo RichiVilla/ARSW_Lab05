@@ -2,6 +2,12 @@
 
 ### Arquitecturas de Software
 
+----------------------------------------------
+#### Realizado por:
+* Nicolas Sebastian Achuri Macias
+* Ricardo Andrés Villamizar Mendez
+
+---------------------------------
 
 
 #### API REST para la gestión de planos.
