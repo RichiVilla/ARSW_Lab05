@@ -120,10 +120,9 @@ Del anterior diagrama de componentes (de alto nivel), se desprendió el siguient
 ![img_3.png](img_3.png)
 3. Teniendo en cuenta el autor y numbre del plano registrado, verifique que el mismo se pueda obtener mediante una petición GET al recurso '/blueprints/{author}/{bpname}' correspondiente.
 
-	![img.png](img.png)	
-	![img_1.png](img_1.png)
-	
-	![img_4.png](img_4.png)
+![img.png](img.png)	
+![img_1.png](img_1.png)
+![img_4.png](img_4.png)
 	
 4. Agregue soporte al verbo PUT para los recursos de la forma '/blueprints/{author}/{bpname}', de manera que sea posible actualizar un plano determinado.
 	![img_5.png](img_5.png)
